@@ -1,0 +1,269 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
+  <diagram name="Page-1" id="uQS9ek2D7PSYEIglThoV">
+    <mxGraphModel dx="989" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-4" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="820" y="-960" width="600" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0dRC9yfDdlV3mLB25J-2" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Заметка для ревьюера&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Текст заметки&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-210" width="370" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0dRC9yfDdlV3mLB25J-3" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Заметка для ревьюера&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Текст заметки&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="80" y="-200" width="370" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0dRC9yfDdlV3mLB25J-4" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Заметка для ревьюера&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Текст заметки&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="90" y="-190" width="370" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0dRC9yfDdlV3mLB25J-5" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Заметка для ревьюера&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Текст заметки&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="100" y="-180" width="370" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0dRC9yfDdlV3mLB25J-6" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Заметка для ревьюера&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Текст заметки&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="110" y="-170" width="370" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oFbbETFREsKXqKu5l48W-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1119.9999999999998" y="-980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1049" y="-980" />
+            </Array>
+            <mxPoint x="919.5" y="-980" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oFbbETFREsKXqKu5l48W-2" value="авторизация(логин, пароль)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oFbbETFREsKXqKu5l48W-1" vertex="1" connectable="0">
+          <mxGeometry x="0.0631" y="-3" relative="1" as="geometry">
+            <mxPoint x="-7" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oFbbETFREsKXqKu5l48W-3" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Пользователь&lt;/span&gt;" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="910" y="-1060" width="20" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="oFbbETFREsKXqKu5l48W-3" vertex="1">
+          <mxGeometry x="3" y="80" width="10" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="oFbbETFREsKXqKu5l48W-4" value=":ТВ-каналы" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1499" y="-1060" width="100" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="oFbbETFREsKXqKu5l48W-4" vertex="1">
+          <mxGeometry x="45" y="280" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-33" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="oFbbETFREsKXqKu5l48W-4" vertex="1">
+          <mxGeometry x="45" y="420" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oFbbETFREsKXqKu5l48W-7" value="Otium:UI&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1076" y="-1060" width="100" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="oFbbETFREsKXqKu5l48W-7" vertex="1">
+          <mxGeometry x="44" y="70" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="oFbbETFREsKXqKu5l48W-7" vertex="1">
+          <mxGeometry x="45" y="260" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-30" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="oFbbETFREsKXqKu5l48W-7" vertex="1">
+          <mxGeometry x="45" y="400" width="10" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-44" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="oFbbETFREsKXqKu5l48W-7" vertex="1">
+          <mxGeometry x="44" y="676" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-50" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="oFbbETFREsKXqKu5l48W-7" vertex="1">
+          <mxGeometry x="45" y="806" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oFbbETFREsKXqKu5l48W-8" value=":Пользователь&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="-1060" width="100" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="oFbbETFREsKXqKu5l48W-8" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-10" value="авторизация пройдена" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="oFbbETFREsKXqKu5l48W-8" edge="1">
+          <mxGeometry x="-0.0732" relative="1" as="geometry">
+            <mxPoint x="-160" y="130" as="targetPoint" />
+            <mxPoint x="45" y="130" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-35" value="подробная информация о телеканале" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="oFbbETFREsKXqKu5l48W-8" edge="1">
+          <mxGeometry x="-0.0012" relative="1" as="geometry">
+            <mxPoint x="-160" y="460" as="targetPoint" />
+            <mxPoint x="253" y="460" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-34" value="запросить подробную информацию о телеканале (id телеканала)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="oFbbETFREsKXqKu5l48W-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-156.5" y="420" as="sourcePoint" />
+            <mxPoint x="256.5" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-41" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="oFbbETFREsKXqKu5l48W-8" vertex="1">
+          <mxGeometry x="45" y="570" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-47" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="oFbbETFREsKXqKu5l48W-8" vertex="1">
+          <mxGeometry x="46" y="676" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-53" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="oFbbETFREsKXqKu5l48W-8" vertex="1">
+          <mxGeometry x="46" y="826" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-55" value="телеканал удален из списка&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;избранных" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="oFbbETFREsKXqKu5l48W-8" target="GGhkb96ebn_FmmL6S7F8-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-24" y="876" as="targetPoint" />
+            <mxPoint x="46" y="876" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oFbbETFREsKXqKu5l48W-9" value="&lt;h1 style=&quot;font-size: 30px;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Диаграмма&amp;nbsp;последовательности&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FF8000;fillColor=#FFE6CC;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=30;align=center;" parent="1" vertex="1">
+          <mxGeometry x="880" y="-1150" width="710" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oFbbETFREsKXqKu5l48W-11" value="&lt;h1&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;Задание&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Составьте диаграмму последовательности в нотации.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;1. Проанализируйте существующее API, которое включает в себя следующий сценарий: авторизация пользователя для доступа к медиатеке, просмотр медиатеки фильмов и получении информации о нужном фильме и работе пользователя с избранными фильмами.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;2. Вам необходимо построить диаграмму последовательностях для телеканалов по аналогии с сценарием взаимодействия пользователя с фильмами. Справа вы видите начало диаграммы, где уже выделен актор, объекты и обозначены несколько сообщений.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;3. Добавьте на диаграмму следующие действия, которые может выполнить пользователь:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 18px;&quot;&gt;&lt;li&gt;авторизоваться в системе&lt;/li&gt;&lt;li&gt;познакомиться с библиотекой телеканалов&lt;/li&gt;&lt;li&gt;прочитать подробную информацию о телеканале&lt;/li&gt;&lt;li&gt;добавить в избранное телеканал (это действие возможно выполнить только с детальной страницы).&lt;/li&gt;&lt;li&gt;посмотреть список избранных телеканалов&lt;/li&gt;&lt;li&gt;удалить телеканал из списка избранного&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;Не забудьте отметить фокус управления.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;4.Если вам не хватает информации в задании, то вы можете ее самостоятельно добавить в виде допущения.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Помните, что вы всегда можете оставить дополнительную информацию со своими размышлениями ревьюеру в виде пометок. Просто возьмите одну из карточек ниже.&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;5. Когда диаграмма последовательности будет готова, сохраните полученный файл в формате .drawio.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-1130" width="600" height="910" as="geometry" />
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-5" value="[пользователь&lt;br&gt;авторизован]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="816.5" y="-930" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-11" value="авторизация не пройдена" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="GGhkb96ebn_FmmL6S7F8-13" edge="1">
+          <mxGeometry x="0.0184" y="20" relative="1" as="geometry">
+            <mxPoint x="1133.1200000000001" y="-890" as="targetPoint" />
+            <mxPoint x="1336.8700000000001" y="-890" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-12" value="[иначе]" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="820" y="-870" width="93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-16" value="авторизация пройдена" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.0453" y="21" relative="1" as="geometry">
+            <mxPoint x="925" y="-910" as="targetPoint" />
+            <mxPoint x="1120" y="-910" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-17" value="авторизация не пройдена" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="GGhkb96ebn_FmmL6S7F8-13" target="GGhkb96ebn_FmmL6S7F8-6" edge="1">
+          <mxGeometry x="0.0184" y="20" relative="1" as="geometry">
+            <mxPoint x="920" y="-865.5" as="targetPoint" />
+            <mxPoint x="1120" y="-865" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1090" y="-860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-23" value="просмотреть библиотеку &lt;br&gt;телеканалов" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" source="GGhkb96ebn_FmmL6S7F8-6" target="GGhkb96ebn_FmmL6S7F8-22" edge="1">
+          <mxGeometry x="-0.0202" y="-35" relative="1" as="geometry">
+            <mxPoint x="930" y="-795" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-24" value="библиотека телеканалов" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" edge="1">
+          <mxGeometry x="0.0017" relative="1" as="geometry">
+            <mxPoint x="923" y="-720" as="targetPoint" />
+            <mxPoint x="1121" y="-720" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-26" value="запросить библиотеку телеканалов" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1131" y="-780" as="sourcePoint" />
+            <mxPoint x="1544" y="-780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-31" value="прочитать подробную&lt;br&gt;информацию о телеканале&lt;div&gt;(id телеканала)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" source="GGhkb96ebn_FmmL6S7F8-6" target="GGhkb96ebn_FmmL6S7F8-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1051" y="-655" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-32" value="подробная информация&lt;br&gt;о телеканале" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="923" y="-584" as="targetPoint" />
+            <mxPoint x="1121" y="-584" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-36" value="добавить телеканал&lt;br&gt;в избранное (id телеканала)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="GGhkb96ebn_FmmL6S7F8-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="-530" as="sourcePoint" />
+            <mxPoint x="1120" y="-530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-37" value="добавить телеканал&lt;br&gt;в избранное (id телеканала)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="oFbbETFREsKXqKu5l48W-8" edge="1">
+          <mxGeometry x="0.0019" relative="1" as="geometry">
+            <mxPoint x="1130.25" y="-490" as="sourcePoint" />
+            <mxPoint x="1549" y="-490" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-39" value="телеканал добавлен в избранное" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0012" relative="1" as="geometry">
+            <mxPoint x="923" y="-440" as="targetPoint" />
+            <mxPoint x="1121" y="-440" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1080" y="-440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-38" value="телеканал добавлен в избранное" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0012" relative="1" as="geometry">
+            <mxPoint x="1130.5" y="-460" as="targetPoint" />
+            <mxPoint x="1339.5" y="-460" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-45" value="посмотреть список избранных&lt;br&gt;телеканалов" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" target="GGhkb96ebn_FmmL6S7F8-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="919.666666666667" y="-379" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-46" value="список избранных телеканалов" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" source="GGhkb96ebn_FmmL6S7F8-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="919.666666666667" y="-309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-48" value="запросить список избранных&lt;br&gt;телеканалов" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="GGhkb96ebn_FmmL6S7F8-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1129.5866666666666" y="-354" as="sourcePoint" />
+            <mxPoint x="1340.42" y="-354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-49" value="список избранных телеканалов" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="-324" as="targetPoint" />
+            <mxPoint x="1336" y="-324" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-51" value="удалить телеканал&lt;br&gt;из списка избранных&amp;nbsp;&lt;div&gt;(id телеканала)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" target="GGhkb96ebn_FmmL6S7F8-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="923" y="-249" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-52" value="телеканал удален из списка&lt;br&gt;избранных" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" source="GGhkb96ebn_FmmL6S7F8-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="923" y="-158.99999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-54" value="удалить телеканал&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;из списка избранных (id телеканала)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" source="GGhkb96ebn_FmmL6S7F8-50" target="GGhkb96ebn_FmmL6S7F8-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1266" y="-229" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;" parent="1" source="GGhkb96ebn_FmmL6S7F8-13" target="GGhkb96ebn_FmmL6S7F8-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1345" y="-970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1264.5" y="-970" />
+            </Array>
+            <mxPoint x="1135.5" y="-970" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-15" value="авторизация(логин, пароль)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GGhkb96ebn_FmmL6S7F8-14" vertex="1" connectable="0">
+          <mxGeometry x="0.0631" y="-3" relative="1" as="geometry">
+            <mxPoint x="-11" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGhkb96ebn_FmmL6S7F8-27" value="библиотека телеканалов" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1133" y="-740" as="targetPoint" />
+            <mxPoint x="1547" y="-740" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
